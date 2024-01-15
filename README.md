@@ -1,6 +1,6 @@
 ★- 👋 Hi, I’m Dhiraj Roy
 ★- 👨‍🦱 i am pursuing B.Tech and student of 1st year 
-★- 👨‍🦱 i am pursing BS degree in data science and cyber security form IIT madras 
+★- 👨‍🦱 i am pursing BS degree form IIT madras 
 ★- 👀 I’m interested in eithitical hacking and web development 
 ★- 🌱 I’m currently learning C,python,java,java script as well as DSA and web development 
 ★- 💞️ I’m looking to collaborate on github
